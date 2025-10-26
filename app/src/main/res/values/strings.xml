@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Targeteer</string>
+    <string name="app_name" translatable="false">Targeteer</string>
+
+    <string name="planning">Planning</string>
+    <string name="settings">Settings</string>
+    <string name="resources">Resources</string>
 </resources>

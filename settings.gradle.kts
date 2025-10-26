@@ -21,3 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "Targeteer"
 include(":app")
+include(":task_builder")
+include(":foundation")
